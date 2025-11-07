@@ -64,7 +64,6 @@ English • Spanish • German
 ## 📄 Documents & Links  
 
 📁 **Resume (PDF):** [Download Resume](./Resume_Salceda.pdf)  
-🌐 **Website/Portfolio:** *(Coming soon)*  
 🔗 **LinkedIn:** [linkedin.com/in/alan-salceda](https://www.linkedin.com/in/alan-salceda)  
 📫 **Email:** [alan.salceda@rice.edu](mailto:alan.salceda@rice.edu)  
 
