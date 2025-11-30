@@ -48,13 +48,14 @@
     }
 
     img.profile {
-      width: 600px;         /* make the photo bigger */
-      height: auto;         /* preserve natural proportions */
-      display: block;       /* allows centering */
-      margin: 40px auto 30px auto; /* center + spacing */
-      object-fit: cover;    /* keeps image clean */
-      border: none;         /* remove border */
-      border-radius: 0;     /* NOT circular */
+      width: 600px;
+      max-width: 100%;     /* <— makes it responsive */
+      height: auto;
+      display: block;
+      margin: 40px auto 30px auto;
+      object-fit: cover;
+      border: none;
+      border-radius: 0;
     }
 
     a {
