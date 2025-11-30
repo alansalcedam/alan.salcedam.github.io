@@ -1,6 +1,6 @@
 # 👋 Hi, I’m **Alan Salceda**
 
-🎓 **Fulbright Scholar** and **MEML candidate at Rice University** with international experience across the **automotive and energy industries**.  
+🎓 **Fulbright Student** and **MEML candidate at Rice University** with international experience across the **automotive and energy industries**.  
 I specialize in **data analytics**, **process optimization**, and **strategic project execution**.  
 My work integrates **engineering management**, **data-driven decision-making**, and **energy systems analysis** to deliver measurable results that drive efficiency and sustainability.  
 
@@ -63,7 +63,6 @@ English • Spanish • German
 
 ## 📄 Documents & Links  
 
-📁 **Resume (PDF):** [Download Resume](./Resume_Salceda.pdf)  
 🔗 **LinkedIn:** [linkedin.com/in/alan-salceda](https://www.linkedin.com/in/alan-salceda)  
 📫 **Email:** [alan.salceda@rice.edu](mailto:alan.salceda@rice.edu)  
 
