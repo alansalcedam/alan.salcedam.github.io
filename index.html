@@ -48,13 +48,13 @@
     }
 
     img.profile {
-      width: 180px;
-      height: 180px;
-      border-radius: 999px;
-      object-fit: cover;
-      margin-bottom: 25px;
-      border: 1px solid #ddd;
-      display: block;
+      width: 260px;         /* make the photo bigger */
+      height: auto;         /* preserve natural proportions */
+      display: block;       /* allows centering */
+      margin: 40px auto 30px auto; /* center + spacing */
+      object-fit: cover;    /* keeps image clean */
+      border: none;         /* remove border */
+      border-radius: 0;     /* NOT circular */
     }
 
     a {
@@ -90,7 +90,7 @@
   <h1>Alan Salceda</h1>
 
   <p>
-    🎓 Fulbright Student and MEML candidate at Rice University with international experience across the automotive and energy industries.
+    Fulbright Student and MEML candidate at Rice University with international experience across the automotive and energy industries.
     I specialize in <strong>data analytics, process optimization, and strategic project execution</strong>.
     My work integrates <strong>engineering management, data-driven decision-making, and energy systems analysis</strong> to deliver measurable results that drive efficiency and sustainability.
   </p>
